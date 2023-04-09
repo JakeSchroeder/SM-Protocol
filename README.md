@@ -18,7 +18,8 @@ Create a SaaS product offering abstraction protocol that could ensure that SaaS 
 <b>Use cases:</b>
 - Sitemap ( /features, /compare, /industry, /security, /cookies, etc.)
 - Comparison (PlanetScale vs Neon, Axiom vs Datadog vs Honeycomb, Auth0 vs Octa, etc.)
-- Compatibility Audits ( SOC 2, iso27001, GDPR, etc.)
+- Compatibility Audits ( SOC2, iso27001, GDPR, etc.)
+- Testimonials
 - Much more...
 
 
