@@ -22,7 +22,11 @@ Create a SaaS product offering abstraction protocol that could ensure that SaaS 
 - Testimonials
 - Much more...
 
+Roadmap:
 
-
+- Sitemap interface
+  - Endpoints (/features, /security/, /pricing, /about, /support, etc.)
+- Pricing interface
+TBC...
 
 
