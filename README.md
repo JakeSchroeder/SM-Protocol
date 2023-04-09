@@ -1,7 +1,7 @@
 # SM-Protocol
 - <b>What is this?</b> A protocol that standardizes the abstraction of SaaS product offerings.
 - <b>Why should I care?</b> SaaS product offering is becoming increasingly hard to evaluate.
-- <b>How does it work?</b> Implement the protocol via manifest file in site root.
+- <b>How does it work?</b> Implement the protocol via XML manifest file in website root.
 
 <b>Background:</b>
 - Computation is a commodity.
