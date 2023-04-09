@@ -7,7 +7,7 @@
 - Computation is a commodity.
 - IaaS companies make computation ubiquitous and affordable. 
 - <i><b>SaaS companies sell computation at the cost of abstraction.</b></i> 
-- App companies buy and integrate abstraction into end-user-products.
+- App companies buy abstraction, integrate and re-package it into end-user-products.
 
 "Protocols are essential to ensuring that devices can communicate and exchange data with each other effectively and reliably.
 Without protocols, it would be difficult or impossible for devices to understand each other and transmit data successfully."
