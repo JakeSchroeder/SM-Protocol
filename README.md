@@ -1,4 +1,4 @@
 # SM-Protocol
-What is this? A high-level web protocol that standardizes SaaS product offering.
-Why should I care? SaaS product offering is becoming increasingly hard to evaluate.
-How does the SM-Protocol solve this? Creates a manifest file that implements the protocol and can be parsed by a crawler.
+<b>What is this?</b> A high-level web protocol that standardizes SaaS product offering.
+<b>Why should I care?</b> SaaS product offering is becoming increasingly hard to evaluate.
+<b>How does the SM-Protocol solve this?</b> By defining Creates a manifest file that implements the protocol and can be parsed by a crawler.
