@@ -15,7 +15,7 @@ Without protocols, it would be difficult or impossible for devices to understand
 <b>Goal:</b>
 Create a SaaS product offering abstraction protocol that could ensure that SaaS marketing sites can communicate and exchange data with each other - and with the humans parsing them - effectively and reliably.
 
-<b>Use cases</b>
+<b>Use cases:</b>
 - Sitemap ( /features, /compare, /industry, /security, /cookies, etc.)
 - Comparison (PlanetScale vs Neon, Axiom vs Datadog vs Honeycomb, Auth0 vs Octa, etc.)
 - Compatibility Audits ( SOC 2, iso27001, GDPR, etc.)
